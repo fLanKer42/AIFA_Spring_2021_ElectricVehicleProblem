@@ -1,0 +1,10 @@
+Requirements
+1. python3 installed on the system, would not run in python2 or below.
+
+Process
+1. Run the A_star_heuristic.py file or the dfbb.py file in the command line with python3
+2. Enter the parameters needed to run the program
+3. The solution path would be printed.
+
+
+
